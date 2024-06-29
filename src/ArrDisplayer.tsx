@@ -1,15 +1,25 @@
-import React from 'react'
-import { Relic } from './Relic'
+import { Relic } from "./Relic";
 
 export default function ArrDisplayer(props: any) {
-    const spawnImgs = (arr: Relic[]) =>
-        arr.map((x) => <>
-            <img src={'/relic_images/' + x.Name.replaceAll(' ', '') + '.png'} className='w-14'></img>
-        </>)
-    return <div className='flex flex-row w-full flex-wrap'>
-        {spawnImgs(props.arr)}
-    </div>
+    const spawnImgs = (arr: Relic[], predicate: string) => {
+        const names = arr.filter((relic) =>
+            relic.Name.toLowerCase().includes(predicate.toLowerCase())
+        );
+        const descs = arr.filter((relic) =>
+            relic.Description.toLowerCase().includes(predicate.toLowerCase())
+        );
+        const prioArr = [...names, ...descs];
+        return prioArr.map((relic) => (
+            <img
+                src={"/relic_images/" + relic.Name.replaceAll(" ", "") + ".png"}
+                className="w-16 border-4 border-transparent hover:border-gray-600"
+            ></img>
+        ));
+    };
 
-
-
+    return (
+        <div className="flex flex-row w-full flex-wrap">
+            {spawnImgs(props.arr, props.pred)}
+        </div>
+    );
 }
