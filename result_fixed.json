@@ -1,0 +1,1234 @@
+[
+    {
+        "Name": "Akabeko",
+        "Description": "Your first attack each combat deals 8 additional damage.",
+        "Flavor": "\"Muuu~\"",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Anchor",
+        "Description": "Start each combat with 10 Block.",
+        "Flavor": "Holding this miniature trinket, you feel heavier and more stable.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ancient Tea Set",
+        "Description": "Whenever you enter a Rest Site, start the next combat with 2 extra Energy.",
+        "Flavor": "The key to a refreshing night's rest.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Art of War",
+        "Description": "If you do not play any Attacks during your turn, gain an extra Energy next turn.",
+        "Flavor": "This ancient manuscript contains wisdom from a past age.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Astrolabe",
+        "Description": "Upon pickup, choose and Transform 3 cards, then Upgrade them.",
+        "Flavor": "A tool to glean invaluable knowledge from the stars.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bag of Marbles",
+        "Description": "At the start of each combat, apply 1 Vulnerable to ALL enemies.",
+        "Flavor": "A once popular toy in the City. Useful for throwing enemies off balance.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bag of Preparation",
+        "Description": "At the start of each combat, draw 2 additional cards.",
+        "Flavor": "Oversized adventurer's pack. Has many pockets and straps.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bird-Faced Urn",
+        "Description": "Whenever you play a Power, heal 2 HP.",
+        "Flavor": "This urn shows the crow god Mazaleth looking mischievous.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Black Blood",
+        "Description": "Replaces Burning Blood. At the end of combat, heal 12 HP.",
+        "Flavor": "The rage grows darker.",
+        "Rarity": "Boss",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Black Star",
+        "Description": "Elites drop an additional Relic when defeated.",
+        "Flavor": "Originally discovered in the town of the serpent, beside a solitary candle.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Blood Vial",
+        "Description": "At the start of each combat, heal 2 HP.",
+        "Flavor": "A vial containing the blood of a pure and elder vampire.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bloody Idol",
+        "Description": "Whenever you gain Gold, heal 5 HP.",
+        "Flavor": "The idol now weeps a constant stream of blood.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Blue Candle",
+        "Description": "Curse cards can now be played. Playing a Curse will make you lose 1 HP and Exhausts the card.",
+        "Flavor": "The flame ignites when shrouded in darkness.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bottled Flame",
+        "Description": "Upon pick up, choose an Attack. Start each combat with this card in your hand.",
+        "Flavor": "Inside the bottle resides a flame that eternally burns.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bottled Lightning",
+        "Description": "Upon pick up, choose a Skill. Start each combat with this card in your hand.",
+        "Flavor": "Peering into the swirling maelstrom, you see a part of yourself staring back.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Bottled Tornado",
+        "Description": "Upon pick up, choose a Power card. Start each combat with this card in your hand.",
+        "Flavor": "The bottle gently hums and whirs.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Brimstone",
+        "Description": "At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.",
+        "Flavor": "Emanates an infernal heat.",
+        "Rarity": "Shop",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Bronze Scales",
+        "Description": "Start each combat with 3 Thorns.",
+        "Flavor": "The sharp scales of the Guardian. Rearranges itself to protect its user.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Burning Blood",
+        "Description": "At the end of combat, heal 6 HP.",
+        "Flavor": "Your body's own blood burns with an undying rage.",
+        "Rarity": "Starter",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Busted Crown",
+        "Description": "Gain 1 Energy at the start of each turn. On Card Reward screens, you have 2 fewer cards to choose from.",
+        "Flavor": "The Champ's crown... or a pale imitation?",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Calipers",
+        "Description": "At the start of your turn, lose 15 Block rather than all of your Block.",
+        "Flavor": "\"Mechanical precision leads to greatness\" - The Architect",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Calling Bell",
+        "Description": "Upon pickup, obtain a unique Curse and 3 relics.",
+        "Flavor": "This dark iron bell rang 3 times when you found it, but now stays silent.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Captain's Wheel",
+        "Description": "At the start of your 3rd turn, gain 18 Block.",
+        "Flavor": "Wood trinket carved with delicate precision. A name is carved into it but the language is foreign.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Cauldron",
+        "Description": "Upon pickup, brews 5 random potions.",
+        "Flavor": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Centennial Puzzle",
+        "Description": "The first time you lose HP each combat, draw 3 cards.",
+        "Flavor": "Upon solving the puzzle you feel a powerful warmth in your chest.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ceramic Fish",
+        "Description": "Whenever you add a card to your deck, gain 9 gold.",
+        "Flavor": "Meticulously painted, these fish were revered to bring great fortune.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Champion Belt",
+        "Description": "Whenever you apply Vulnerable, also apply 1 Weak.",
+        "Flavor": "Only the greatest may wear this belt.",
+        "Rarity": "Rare",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Charon's Ashes",
+        "Description": "Whenever you Exhaust a card, deal 3 damage to ALL enemies.",
+        "Flavor": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.",
+        "Rarity": "Rare",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Chemical X",
+        "Description": "Whenever you play a cost X card, its effects are increased by 2",
+        "Flavor": "WARNING: Do not combine with sugar, spice, and everything nice.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Circlet",
+        "Description": "Collect as many as you can.",
+        "Flavor": "You ran out of relics to find. Impressive!",
+        "Rarity": "Special",
+        "Class": "Any"
+    },
+    {
+        "Name": "Cloak Clasp",
+        "Description": "At the end of your turn, gain 1 block for each card in your hand.",
+        "Flavor": "A simple but sturdy design.",
+        "Rarity": "Rare",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "Clockwork Souvenir",
+        "Description": "At the start of each combat, gain 1 Artifact.",
+        "Flavor": "\"So many intricate gears.\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Coffee Dripper",
+        "Description": "Gain 1 Energy at the start of each turn. You can no longer Rest at Rest Sites.",
+        "Flavor": "\"Yes, another cup please. Back to work. Back to work!\" -The Architect",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Cracked Core",
+        "Description": "At the start of each combat, Channel 1 Lightning.",
+        "Flavor": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.",
+        "Rarity": "Starter",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Cultist Headpiece",
+        "Description": "You feel more talkative.",
+        "Flavor": "Part of the Flock!",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Cursed Key",
+        "Description": "Gain 1 Energy at the start of each turn. Whenever you open a non-boss Chest, obtain a Curse.",
+        "Flavor": "You can feel the malicious energy emanating from the key. Power comes at a price.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Damaru",
+        "Description": "At the start of your turn, gain 1 Mantra.",
+        "Flavor": "The sound of the small drum keeps your mind awake, revealing a path forward.",
+        "Rarity": "Common",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "Darkstone Periapt",
+        "Description": "Whenever you obtain a Curse, increase your Max HP by 6.",
+        "Flavor": "This stone draws power from dark energy, converting it into vitality for the wearer.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Data Disk",
+        "Description": "Start each combat with 1 Focus.",
+        "Flavor": "This disk contains precious data on birds and snakes.",
+        "Rarity": "Common",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Dead Branch",
+        "Description": "Whenever you Exhaust a card, add a random card to your hand.",
+        "Flavor": "The branch of a tree from a forgotten era.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Dolly's Mirror",
+        "Description": "Upon pickup, obtain an additional copy of a card in your deck.",
+        "Flavor": "\"I look funny in this.\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Dream Catcher",
+        "Description": "Whenever you rest, you may add a card to your deck.",
+        "Flavor": "The northern tribes would often use dream catchers at night, believing they led to self improvement.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Du-Vu Doll",
+        "Description": "For each Curse in your deck, start each combat with 1 additional Strength.",
+        "Flavor": "A doll devised to gain strength from malicious energy.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ectoplasm",
+        "Description": "Gain 1 Energy at the start of each turn. You can no longer gain Gold.",
+        "Flavor": "This blob of slime and energy seems to pulse with life.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Emotion Chip",
+        "Description": "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.",
+        "Flavor": "...<3...?",
+        "Rarity": "Rare",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Empty Cage",
+        "Description": "Upon pickup, remove 2 cards from your Deck.",
+        "Flavor": "\"How unusual to cage that which you worship\" -Ranwid",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Enchiridion",
+        "Description": "At the start of each combat, add a random Power card to your hand. It costs 0 until the end of turn.",
+        "Flavor": "The legendary journal of an ancient lich.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Eternal Feather",
+        "Description": "For every 5 cards in your deck, heal 3 HP whenever you enter a Rest Site.",
+        "Flavor": "This feather appears to be completely indestructible. What bird does this possibly come from?",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Face of Cleric",
+        "Description": "Raise your Max HP by 1 after each combat.",
+        "Flavor": "Everyone loves Cleric.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Fossilized Helix",
+        "Description": "Prevent the first time you would lose HP in combat.",
+        "Flavor": "Seemingly indestructible, you wonder what kind of creature this belonged to.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Frozen Core",
+        "Description": "Replaces Cracked Core. If you end your turn with empty Orb slots, channel 1 Frost.",
+        "Flavor": "The crack in your core has been filled with a pulsating cold energy.",
+        "Rarity": "Boss",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Frozen Egg",
+        "Description": "Whenever you add a Power card to your deck, it is Upgraded.",
+        "Flavor": "The egg lies inert and frozen, never to hatch.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Frozen Eye",
+        "Description": "When viewing your Draw Pile, the cards are now shown in order.",
+        "Flavor": "Staring into the eye, you see a glimpse of your future.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Fusion Hammer",
+        "Description": "Gain 1 Energy at the start of each turn. You can no longer Smith at Rest Sites.",
+        "Flavor": "Once wielded, the owner can never let go.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Gambling Chip",
+        "Description": "At the start of each combat, discard any number of cards then draw that many.",
+        "Flavor": "You can see a small inscription on one side. It reads: \"Bear's Lucky Chip!\"",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ginger",
+        "Description": "You can no longer become Weakened.",
+        "Flavor": "A potent tool in many tonics.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Girya",
+        "Description": "You can now gain Strength at Rest Sites. (3 times max)",
+        "Flavor": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Gold-Plated Cables",
+        "Description": "Your rightmost Orb triggers its passive an additional time.",
+        "Flavor": "\"Interesting! Even automatons are affected by placebo.\" -Ranwid",
+        "Rarity": "Uncommon",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Golden Eye",
+        "Description": "Whenever you Scry, Scry 2 additional cards.",
+        "Flavor": "\"See into the minds of those nearby, predicting their future moves.\"",
+        "Rarity": "Rare",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "Golden Idol (Relic)",
+        "Description": "Enemies drop 25% more gold.",
+        "Flavor": "Made of solid gold, you feel richer just holding it.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Gremlin Horn",
+        "Description": "Whenever an enemy dies, gain 1 Energy and draw 1 card.",
+        "Flavor": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Gremlin Visage",
+        "Description": "Start each combat with 1 Weak.",
+        "Flavor": "Time to run.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Hand Drill",
+        "Description": "Whenever you break an enemy's Block, apply 2 Vulnerable.",
+        "Flavor": "Spirals are dangerous.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Happy Flower",
+        "Description": "Every 3 turns, gain 1 Energy.",
+        "Flavor": "This unceasingly joyous plant is a popular novelty item among nobles.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Holy Water",
+        "Description": "Replaces Pure Water. At the start of each combat, add 3 Miracles to your hand.",
+        "Flavor": "\"Collected from a time before the Spire.\"",
+        "Rarity": "Boss",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "Horn Cleat",
+        "Description": "At the start of your 2nd turn, gain 14 Block.",
+        "Flavor": "Pleasant to hold in the hand. What was it for?",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Hovering Kite",
+        "Description": "The first time you discard a card each turn, gain 1 Energy.",
+        "Flavor": "The Kite floats around you in battle, propelled by a mysterious force.",
+        "Rarity": "Boss",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Ice Cream",
+        "Description": "Energy is now conserved between turns.",
+        "Flavor": "\"Delicious!\"",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Incense Burner",
+        "Description": "Every 6 turns, gain 1 Intangible.",
+        "Flavor": "The smoke imbues its owner with the spirit of the burned.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ink Bottle",
+        "Description": "Whenever you play 10 cards, draw 1 card.",
+        "Flavor": "Once exhausted, appears to refill itself in a different color.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Inserter",
+        "Description": "Every 2 turns, gain 1 Orb slot.",
+        "Flavor": "Push. Pull. Stack. Repeat.",
+        "Rarity": "Boss",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Juzu Bracelet",
+        "Description": "Regular enemy combats are no longer encountered in ? rooms.",
+        "Flavor": "A ward against the unknown.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Kunai",
+        "Description": "Every time you play 3 Attacks in a single turn, gain 1 Dexterity.",
+        "Flavor": "A blade favored by assassins for its lethality at range.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Lantern",
+        "Description": "Gain 1 Energy on the first turn of each combat.",
+        "Flavor": "An eerie lantern which illuminates only for the wielder.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Lee's Waffle",
+        "Description": "Raise your Max HP by 7 and heal all of your HP.",
+        "Flavor": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Letter Opener",
+        "Description": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.",
+        "Flavor": "Unnaturally sharp.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Lizard Tail",
+        "Description": "When you would die, heal to 50% of your Max HP instead (works once).",
+        "Flavor": "A fake tail to trick enemies during combat.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Magic Flower",
+        "Description": "Healing is 50% more effective during combat.",
+        "Flavor": "A flower long thought extinct, somehow preserved in perfect condition.",
+        "Rarity": "Rare",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Mango",
+        "Description": "Upon pickup, raise your Max HP by 14.",
+        "Flavor": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Mark of Pain",
+        "Description": "Gain 1 Energy at the start of each turn. Start combats with 2 Wounds in your draw pile.",
+        "Flavor": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.",
+        "Rarity": "Boss",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Mark of the Bloom",
+        "Description": "You can no longer heal.",
+        "Flavor": "In the Beyond, thoughts and reality are one.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Matryoshka",
+        "Description": "The next 2 chests you open contain 2 Relics. (Excludes boss chests)",
+        "Flavor": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Maw Bank",
+        "Description": "Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at the shop.",
+        "Flavor": "Surprisingly popular, despite maw attacks being a regular occurrence.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Meal Ticket",
+        "Description": "Whenever you enter a shop room, heal 15 HP.",
+        "Flavor": "\"Complimentary meatballs with every visit!\"",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Meat on the Bone",
+        "Description": "If your HP is at or below 50% at the end of combat, heal 12 HP.",
+        "Flavor": "The meat keeps replenishing, never seeming to fully run out.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Medical Kit",
+        "Description": "Status cards can now be played. Playing a Status will Exhaust the card.",
+        "Flavor": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Melange",
+        "Description": "Whenever you shuffle your draw pile, Scry 3.",
+        "Flavor": "\"Mysterious sands from an unknown origin. Smells of cinnamon.\"",
+        "Rarity": "Shop",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "Membership Card",
+        "Description": "50% discount on all products!",
+        "Flavor": "\"Bonus membership offer for my most valuable customers!\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Mercury Hourglass",
+        "Description": "At the start of your turn, deal 3 damage to ALL enemies.",
+        "Flavor": "An enchanted hourglass that endlessly drips.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Molten Egg",
+        "Description": "Whenever you add an Attack card to your deck, it is Upgraded.",
+        "Flavor": "The egg of a Phoenix. It glows red hot with a simmering lava.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Mummified Hand",
+        "Description": "Whenever you play a Power, a random card in your hand costs 0 for the turn.",
+        "Flavor": "Frequently twitches, especially when your pulse is high.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Mutagenic Strength",
+        "Description": "Start each combat with 3 Strength that is lost at the end of your turn.",
+        "Flavor": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown",
+        "Rarity": "Event",
+        "Class": "All"
+    },
+    {
+        "Name": "N'Loth's Hungry Face",
+        "Description": "The next non-boss chest you open is empty.",
+        "Flavor": "You feel hungry.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Necronomicon",
+        "Description": "The first Attack played each turn that costs 2 or more is played twice. When you take this relic, become Cursed.",
+        "Flavor": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Neow's Lament",
+        "Description": "Enemies in your first 3 combats will have 1 HP.",
+        "Flavor": "The blessing of lamentation bestowed by Neow.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Nilry's Codex",
+        "Description": "At the end of each turn, you can choose 1 of 3 random cards to shuffle into your draw pile.",
+        "Flavor": "Crafted by the infamous game master himself. Said to expand one's mind.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ninja Scroll",
+        "Description": "Start each combat with 3 Shivs in hand.",
+        "Flavor": "Contains the secrets of assassination.",
+        "Rarity": "Uncommon",
+        "Class": "Silent"
+    },
+    {
+        "Name": "N'loth's Gift",
+        "Description": "Triples the chance of receiving rare cards as monster rewards.",
+        "Flavor": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Nuclear Battery",
+        "Description": "At the start of each combat, Channel 1 Plasma.",
+        "Flavor": "Ooooh...",
+        "Rarity": "Boss",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Nunchaku",
+        "Description": "Every time you play 10 Attacks, gain 1 Energy.",
+        "Flavor": "A good training tool. Improves the posture and agility of the wielder.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Odd Mushroom",
+        "Description": "When Vulnerable, take 25% more damage rather than 50%.",
+        "Flavor": "\"After consuming trichella parastius I felt larger and less... susceptible.\" - Ranwid",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Oddly Smooth Stone",
+        "Description": "At the start of each combat, gain 1 Dexterity.",
+        "Flavor": "You have never seen something so smooth and pristine. This must be the work of the Ancients.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Old Coin",
+        "Description": "Gain 300 Gold.",
+        "Flavor": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Omamori",
+        "Description": "Negate the next 2 Curses you obtain.",
+        "Flavor": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Orange Pellets",
+        "Description": "Whenever you play a Power, Attack, and Skill in the same turn, remove all of your Debuffs.",
+        "Flavor": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Orichalcum",
+        "Description": "If you end your turn without Block, gain 6 Block.",
+        "Flavor": "A green tinted metal of an unknown origin. Seemingly indestructible.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ornamental Fan",
+        "Description": "Every time you play 3 Attacks in a single turn, gain 4 Block.",
+        "Flavor": "The fan seems to extend and harden as blood is spilled.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Orrery",
+        "Description": "Choose and add 5 cards to your deck.",
+        "Flavor": "\"Once you understand the universe...\" - Zoroth",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Pandora's Box",
+        "Description": "Transform all Strikes and Defends.",
+        "Flavor": "You have a bad feeling about opening this.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Pantograph",
+        "Description": "At the start of boss combats, heal 25 HP.",
+        "Flavor": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Paper Krane",
+        "Description": "Enemies with Weak deal 40% less damage rather than 25%.",
+        "Flavor": "An origami of a creature from a past age.",
+        "Rarity": "Uncommon",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Paper Phrog",
+        "Description": "Enemies with Vulnerable take 75% more damage rather than 50%.",
+        "Flavor": "The paper continually folds and unfolds itself into the shape of a small creature.",
+        "Rarity": "Uncommon",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Peace Pipe",
+        "Description": "You can now remove cards from your deck at Rest Sites.",
+        "Flavor": "Clears the mind and cleanses the soul.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Pear",
+        "Description": "Upon pickup, raise your Max HP by 10.",
+        "Flavor": "A common fruit before the Spireblight.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Pen Nib",
+        "Description": "Every 10th Attack you play deals double damage.",
+        "Flavor": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Philosopher's Stone",
+        "Description": "Gain 1 Energy at the start of each turn. ALL enemies start with 1 Strength.",
+        "Flavor": "Raw energy emanates from the stone, empowering all nearby.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Pocketwatch",
+        "Description": "Whenever you play 3 or less cards in a turn, draw 3 additional cards at the start of your next turn.",
+        "Flavor": "The hands seem stuck on the 3 o'clock position.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Potion Belt",
+        "Description": "Upon pick up, gain 2 potion slots.",
+        "Flavor": "I can hold more Potions using this belt!",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Prayer Wheel",
+        "Description": "Normal enemies drop an additional card reward.",
+        "Flavor": "The wheel continues to spin, never stopping.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Preserved Insect",
+        "Description": "Enemies in Elite rooms have 25% less HP.",
+        "Flavor": "The insect seems to create a shrinking aura that targets particularly large enemies.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Prismatic Shard",
+        "Description": "Combat reward screens now contain colorless cards and cards from other colors.",
+        "Flavor": "Looking through the shard, you are able to see entirely new perspectives.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Question Card",
+        "Description": "On future Card Reward screens you have 1 additional card to choose from.",
+        "Flavor": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Red Mask",
+        "Description": "At the start of each combat, apply 1 Weak to ALL enemies.",
+        "Flavor": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Red Skull",
+        "Description": "While your HP is at or below 50%, you have 3 additional Strength.",
+        "Flavor": "A small skull covered in ornamental paint.",
+        "Rarity": "Common",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Regal Pillow",
+        "Description": "Heal an additional 15 HP when you Rest.",
+        "Flavor": "Now you can get a proper night's rest.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ring of the Serpent",
+        "Description": "Replaces Ring of the Snake. At the start of your turn, draw 1 additional card.",
+        "Flavor": "Your ring has morphed and changed forms.",
+        "Rarity": "Boss",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Runic Capacitor",
+        "Description": "Start each combat with 3 additional Orb slots.",
+        "Flavor": "More is better.",
+        "Rarity": "Shop",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Runic Cube",
+        "Description": "Whenever you lose HP, draw 1 card.",
+        "Flavor": "The runes are indecipherable.",
+        "Rarity": "Boss",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Runic Dome",
+        "Description": "Gain 1 Energy at the start of each turn. You can no longer see enemy Intents.",
+        "Flavor": "The runes are indecipherable.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Runic Pyramid",
+        "Description": "At the end of your turn, you no longer discard your hand.",
+        "Flavor": "The runes are indecipherable.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Sacred Bark",
+        "Description": "Double the effectiveness of potions.",
+        "Flavor": "A bark rumored to originate from the World tree.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Self-Forming Clay",
+        "Description": "Whenever you lose HP in combat, gain 3 Block next turn.",
+        "Flavor": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid",
+        "Rarity": "Uncommon",
+        "Class": "Ironclad"
+    },
+    {
+        "Name": "Shovel",
+        "Description": "You can now Dig for loot at Rest Sites.",
+        "Flavor": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Shuriken",
+        "Description": "Every time you play 3 Attacks in a single turn, gain 1 Strength.",
+        "Flavor": "Lightweight throwing weapons. Recommend going for the eyes.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Singing Bowl",
+        "Description": "When adding cards to your deck, you may gain +2 Max HP instead.",
+        "Flavor": "This well-used artifact rings out with a beautiful melody when struck.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Slaver's Collar",
+        "Description": "During Boss and Elite combats, gain Energy at the start of your turn.",
+        "Flavor": "Rusty miserable chains.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Sling of Courage",
+        "Description": "Start each Elite combat with 2 Strength.",
+        "Flavor": "\"A handy tool for dealing with particularly tough opponents.\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Smiling Mask",
+        "Description": "The merchant's card removal service now always costs 50 Gold.",
+        "Flavor": "Mask worn by the merchant. He must have spares...",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Snecko Eye",
+        "Description": "Draw 2 additional cards each turn. Start each combat Confused.",
+        "Flavor": "An eye of a fallen snecko. Much larger than you imagined.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Snecko Skull",
+        "Description": "Whenever you apply Poison, apply an additional 1 Poison.",
+        "Flavor": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.",
+        "Rarity": "Common",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Sozu",
+        "Description": "Gain 1 Energy at the start of each turn. You can no longer obtain potions.",
+        "Flavor": "You notice that magical liquids seem to lose their properties when near this relic.",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Spirit Poop",
+        "Description": "It's unpleasant.",
+        "Flavor": "The charred remains of your offering to the spirits.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Ssserpent Head",
+        "Description": "Whenever you enter a ? room, gain 50 Gold.",
+        "Flavor": "The most fulfilling of lives is that in which you can buy anything!",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Stone Calendar",
+        "Description": "At the end of turn 7, deal 52 damage to ALL enemies.",
+        "Flavor": "The passage of time is imperceptible in the Spire.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Strange Spoon",
+        "Description": "Cards which Exhaust when played will instead discard 50% of the time.",
+        "Flavor": "Staring at the spoon, it appears to bend and twist around before your eyes.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Strawberry",
+        "Description": "Upon pickup, raise your Max HP by 7.",
+        "Flavor": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Strike Dummy",
+        "Description": "Cards containing \"Strike\" deal 3 additional damage.",
+        "Flavor": "It's beat up.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Sundial",
+        "Description": "Every 3 times you shuffle your draw pile, gain 2 Energy.",
+        "Flavor": "\"Early man's foolish obsession with time caused them to look to the sky for guidance, hoping for something permanent.\" - Zoroth",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Symbiotic Virus",
+        "Description": "At the Start of each combat, Channel 1 Dark.",
+        "Flavor": "A little bit of bad can do a lot of good.",
+        "Rarity": "Uncommon",
+        "Class": "Defect"
+    },
+    {
+        "Name": "Teardrop Locket",
+        "Description": "Start each combat in Calm.",
+        "Flavor": "\"Its owner blind, its content unseen.\"",
+        "Rarity": "Uncommon",
+        "Class": "Watcher"
+    },
+    {
+        "Name": "The Abacus",
+        "Description": "Gain 6 Block whenever you shuffle your draw pile.",
+        "Flavor": "\"One...Two...Three...\"",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "The Boot",
+        "Description": "Whenever you would deal 4 or less unblocked Attack damage, increase it to 5.",
+        "Flavor": "When wound up, the boot grows larger in size.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "The Courier",
+        "Description": "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.",
+        "Flavor": "The merchant's personal pet!",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "The Specimen",
+        "Description": "Whenever an enemy dies, transfer any Poison it has to a random enemy.",
+        "Flavor": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid",
+        "Rarity": "Rare",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Thread and Needle",
+        "Description": "At the start of each combat, gain 4 Plated Armor.",
+        "Flavor": "Wrapping the magical thread around your body, you feel harder to the touch.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Tingsha",
+        "Description": "Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.",
+        "Flavor": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.",
+        "Rarity": "Rare",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Tiny Chest",
+        "Description": "Every 4th ? room is a Treasure room.",
+        "Flavor": "\"A fine prototype.\" - The Architect",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Tiny House",
+        "Description": "Obtain 1 potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 card. Upgrade 1 Random card.",
+        "Flavor": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Toolbox",
+        "Description": "At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your hand.",
+        "Flavor": "A tool for every job.",
+        "Rarity": "Shop",
+        "Class": "Any"
+    },
+    {
+        "Name": "Torii",
+        "Description": "Whenever you would receive 5 or less unblocked Attack damage, reduce it to 1.",
+        "Flavor": "Holding the small Torii, you feel a sense of calm and safety drift through your mind.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Tough Bandages",
+        "Description": "Whenever you discard a card during your turn, gain 3 Block.",
+        "Flavor": "Loss gives strength.",
+        "Rarity": "Rare",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Toxic Egg",
+        "Description": "Whenever you add a Skill card to your deck, it is Upgraded.",
+        "Flavor": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Toy Ornithopter",
+        "Description": "Whenever you use a potion, heal 5 HP.",
+        "Flavor": "\"This little toy is the perfect companion for the lone adventurer!\"",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Tungsten Rod",
+        "Description": "Whenever you would lose HP, lose 1 less.",
+        "Flavor": "It's very very heavy.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Turnip",
+        "Description": "You can no longer become Frail.",
+        "Flavor": "Best with ginger.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Twisted Funnel",
+        "Description": "At the start of each combat, apply 4 Poison to ALL enemies.",
+        "Flavor": "\"I wouldn't drink out of it.\"",
+        "Rarity": "Shop",
+        "Class": "Silent"
+    },
+    {
+        "Name": "Unceasing Top",
+        "Description": "Whenever you have no cards in hand during your turn, draw a card.",
+        "Flavor": "The top continues to spin effortlessly as if you were in a dream.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Vajra",
+        "Description": "At the start of each combat, gain 1 Strength.",
+        "Flavor": "An ornamental relic given to warriors displaying glory in battle.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Velvet Choker",
+        "Description": "Gain 1 Energy at the start of each turn. You cannot play more than 6 cards per turn.",
+        "Flavor": "\"Immense power, but too limited.\" - Kublai the Great",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "Violet Lotus",
+        "Description": "Whenever you exit Calm, gain an additional Energy.",
+        "Flavor": "\"Immense power, but too limited.\" - Kublai the Great",
+        "Rarity": "Boss",
+        "Class": "Any"
+    },
+    {
+        "Name": "War Paint",
+        "Description": "Upon pick up, Upgrade 2 random Skills.",
+        "Flavor": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "Warped Tongs",
+        "Description": "At the start of your turn, Upgrade a random card in your hand for the rest of combat.",
+        "Flavor": "The cursed tongs emit a strong desire to return to where they were stolen from.",
+        "Rarity": "Event",
+        "Class": "Any"
+    },
+    {
+        "Name": "Whetstone",
+        "Description": "Upon pick up, Upgrade 2 random Attacks.",
+        "Flavor": "\"Flesh never beats steel.\" - Kublai the Great",
+        "Rarity": "Common",
+        "Class": "Any"
+    },
+    {
+        "Name": "White Beast Statue",
+        "Description": "Potions always drop after combat.",
+        "Flavor": "A small white statue of a creature you have never seen before.",
+        "Rarity": "Uncommon",
+        "Class": "Any"
+    },
+    {
+        "Name": "Wing Boots",
+        "Description": "You may ignore paths when choosing the next room to travel to 3 times.",
+        "Flavor": "Stylish.",
+        "Rarity": "Rare",
+        "Class": "Any"
+    },
+    {
+        "Name": "Wrist Blade",
+        "Description": "Attacks that cost 0 deal 4 additional damage.",
+        "Flavor": "Handy for assassinations.",
+        "Rarity": "Boss",
+        "Class": "Silent"
+    }
+]
