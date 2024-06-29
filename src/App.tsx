@@ -1,33 +1,23 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <div className='bg-zinc-800 min-h-dvh'>
+        <nav className="w-full flex items-center justify-between h-14 border-b border-slate-500">
+          <div className='h-full flex flex-row'>
+            <button className='text-xl md:text-2xl hover:bg-gray-600 h-full px-4 md:px-6'>Home</button>
+          </div>
+          <div>
+            <input type="search" className='h-14 pl-2 w-[220px] placeholder:text-xl' placeholder='Search for relics...' />
+          </div>
+        </nav >
+      </div >
     </>
   )
 }
