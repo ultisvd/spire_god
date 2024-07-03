@@ -24,3 +24,4 @@ bird.png
 *.njsproj
 *.sln
 *.sw?
+.env
