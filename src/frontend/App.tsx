@@ -1,9 +1,9 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 // import birdLogo from '/other/bird.png'
 import "./App.css";
-import { Relic } from "../Relic.ts";
+import { Relic, Relic_like } from "../Relic.ts";
 import ArrDisplayer from "./ArrDisplayer.tsx";
 
 function App() {
@@ -11,14 +11,28 @@ function App() {
     const [searchPredicate, setPredicate] = useState("");
     const [jsonarr, setjsonarr] = useState([]);
 
-    fetch("/relics.json")
-        .then((jsonfile) => jsonfile.text())
-        .then((jsontext) => {
-            const data = JSON.parse(jsontext);
-            const arr = data.map((x: object) => new Relic(x));
-            setjsonarr(arr);
-        })
-        .catch((err) => console.log(err));
+    useEffect(() => {
+        fetch("http://localhost:6969/relics")
+            .then((jsonfile) => {
+                return jsonfile.text();
+            })
+            .then((jsontext) => {
+                const data = JSON.parse(jsontext);
+                const arr = data.map(
+                    (x: Relic_like) =>
+                        new Relic(
+                            x.name,
+                            x.description,
+                            x.flavor,
+                            x.rarity,
+                            x.class
+                        )
+                );
+                setjsonarr(arr);
+                console.log("Fetched!");
+            })
+            .catch((err) => console.log(err));
+    }, []);
 
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     function onInputHandler(e: any) {

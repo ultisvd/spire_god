@@ -1,23 +1,23 @@
 export class Relic {
-    Name: string;
-    Description: string;
-    Flavor: string;
-    Rarity: string;
-    Class: string;
+    name: string;
+    description: string;
+    flavor: string;
+    rarity: string;
+    class: string;
     constructor(in_Name: string, in_Desc: string, in_Flavor: string,
                 in_Rarity: string, in_Class: string) {
-        this.Name = in_Name;
-        this.Description = in_Desc;
-        this.Flavor = in_Flavor;
-        this.Rarity = in_Rarity;
-        this.Class = in_Class;
+        this.name = in_Name;
+        this.description = in_Desc;
+        this.flavor = in_Flavor;
+        this.rarity = in_Rarity;
+        this.class = in_Class;
     }
 }
 
 export interface Relic_like {
-    Name: string;
-    Description: string;
-    Flavor: string;
-    Rarity: string;
-    Class: string;
+    name: string;
+    description: string;
+    flavor: string;
+    rarity: string;
+    class: string;
 }
