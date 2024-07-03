@@ -10,6 +10,7 @@ function App() {
     // const [count, setCount] = useState(0)
     const [searchPredicate, setPredicate] = useState("");
     const [jsonarr, setjsonarr] = useState([]);
+    const [hoveredItem, changeHovered] = useState(0);
 
     useEffect(() => {
         fetch("http://localhost:6969/relics")
@@ -60,12 +61,31 @@ function App() {
                         />
                     </div>
                 </nav>
-                <div>
-                    <div></div>
+                <div className="flex flex-row w-full">
+                    <div className="flex flex-col items-center w-1/4 py-2 border-r-4 flex-shrink-0">
+                        <div className="flex flex-col min-h-[5.5rem]">
+                            <p className="w-full text-center pb-0 text-xl underline">
+                                {hoveredItem.name}
+                            </p>
+                            <p className="w-full px-2 text-sm text-orange-300 text-center">
+                                Rarity: {hoveredItem.rarity}
+                            </p>
+                            <p className="w-full text-center text-xs px-2 text-green-900">
+                                {hoveredItem.flavor}
+                            </p>
+                        </div>
+                        <p className="w-full px-2 pb-2">
+                            {hoveredItem.description}
+                        </p>
+                        <p className="w-full px-2 text-sm text-gray-600">
+                            Class: {hoveredItem.class}
+                        </p>
+                    </div>
                     <div>
                         <ArrDisplayer
                             pred={searchPredicate}
                             arr={jsonarr}
+                            callback={changeHovered}
                         ></ArrDisplayer>
                     </div>
                 </div>

@@ -1,6 +1,7 @@
 import { Relic } from "../Relic";
+import { useState } from "react";
 
-export default function ArrDisplayer(props: any) {
+export default function ArrDisplayer({ arr, pred, callback }) {
     const spawnImgs = (arr: Relic[], predicate: string) => {
         const names = arr.filter((relic) =>
             relic.name.toLowerCase().includes(predicate.toLowerCase())
@@ -14,13 +15,14 @@ export default function ArrDisplayer(props: any) {
             <img
                 src={"/relic_images/" + relic.name.replaceAll(" ", "") + ".png"}
                 className="w-16 border-4 border-transparent hover:border-gray-600"
+                onMouseOver={() => callback(relic)}
             ></img>
         ));
     };
 
     return (
         <div className="flex flex-row w-full flex-wrap">
-            {spawnImgs(props.arr, props.pred)}
+            {spawnImgs(arr, pred)}
         </div>
     );
 }
