@@ -29,8 +29,21 @@ function App() {
                             x.class
                         )
                 );
-                setjsonarr(arr);
+                const CommonArr = arr.filter((x) => x.rarity == "Common");
+                const UncommonArr = arr.filter((x) => x.rarity == "Uncommon");
+                const RareArr = arr.filter((x) => x.rarity == "Rare");
+                const BossArr = arr.filter((x) => x.rarity == "Boss");
+                const ShopArr = arr.filter((x) => x.rarity == "Shop");
+                const groupedArr = [
+                    CommonArr,
+                    UncommonArr,
+                    RareArr,
+                    BossArr,
+                    ShopArr,
+                ];
+                setjsonarr(groupedArr);
                 console.log("Fetched!");
+                console.log(groupedArr);
             })
             .catch((err) => console.log(err));
     }, []);
@@ -81,12 +94,22 @@ function App() {
                             Class: {hoveredItem.class}
                         </p>
                     </div>
-                    <div>
-                        <ArrDisplayer
-                            pred={searchPredicate}
-                            arr={jsonarr}
-                            callback={changeHovered}
-                        ></ArrDisplayer>
+                    <div className="flex flex-col w-full">
+                        {jsonarr.map((arr_group) => {
+                            return (
+                                <div>
+                                    <p className="text-center pt-2 text-lg uppercase duration-200 text-gray-300">
+                                        {arr_group[0].rarity} relics (
+                                        {arr_group.length})
+                                    </p>
+                                    <ArrDisplayer
+                                        pred={searchPredicate}
+                                        arr={arr_group}
+                                        callback={changeHovered}
+                                    ></ArrDisplayer>
+                                </div>
+                            );
+                        })}
                     </div>
                 </div>
                 <p></p>

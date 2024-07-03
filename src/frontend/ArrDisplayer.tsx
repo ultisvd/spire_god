@@ -14,7 +14,7 @@ export default function ArrDisplayer({ arr, pred, callback }) {
         return prioArr.map((relic) => (
             <img
                 src={"/relic_images/" + relic.name.replaceAll(" ", "") + ".png"}
-                className="w-16 border-4 border-transparent hover:border-gray-600"
+                className="w-16 border-4 border-transparent hover:border-gray-600 hover:animate-pulse"
                 onMouseOver={() => callback(relic)}
             ></img>
         ));
