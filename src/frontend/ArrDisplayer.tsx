@@ -1,4 +1,4 @@
-import { Relic } from "./Relic";
+import { Relic } from "../Relic";
 
 export default function ArrDisplayer(props: any) {
     const spawnImgs = (arr: Relic[], predicate: string) => {

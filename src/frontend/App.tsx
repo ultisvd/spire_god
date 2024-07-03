@@ -3,7 +3,7 @@ import { useState } from "react";
 // import viteLogo from '/vite.svg'
 // import birdLogo from '/other/bird.png'
 import "./App.css";
-import { Relic } from "./Relic.ts";
+import { Relic } from "../Relic.ts";
 import ArrDisplayer from "./ArrDisplayer.tsx";
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         .then((jsonfile) => jsonfile.text())
         .then((jsontext) => {
             const data = JSON.parse(jsontext);
-            const arr = data.map((x) => new Relic(x));
+            const arr = data.map((x: object) => new Relic(x));
             setjsonarr(arr);
         })
         .catch((err) => console.log(err));
